@@ -1,0 +1,30 @@
+/*here is heading 1*/
+
+.title {
+  color: purple;
+  font-weight: bolder;
+  margin-left: 100px;
+}
+.kit-list {
+  color: rgb(234, 72, 99);
+  font-style: italic;
+  margin-left: 200px;
+}
+
+.set-list {
+  margin-left: 150px;
+  color: purple;
+}
+
+.logo {
+  margin-left: 100px;
+}
+.single-products {
+  margin-left: 150px;
+  color: purple;
+}
+.single-prices {
+  margin-left: 200px;
+  font-style: italic;
+  color: rgb(234, 72, 99);
+}
